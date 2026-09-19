@@ -1,4 +1,4 @@
-# Parking Demand Predictor 📈
+# Parking Demand Predictor
 
 A machine learning project that predicts parking occupancy based on historical data and time-based features. Built to understand how well simple models can forecast parking demand — and where they fall short.
 
