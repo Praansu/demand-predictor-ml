@@ -1,13 +1,13 @@
 # Parking Demand Predictor
 
-A machine learning project that predicts parking occupancy based on historical data and time-based features. Built to understand how well simple models can forecast parking demand — and where they fall short.
+A machine learning project that predicts parking occupancy based on historical data and time-based features. Built to understand how well simple models can forecast parking demand and where they fall short.
 
 ## What This Does
 
-Takes historical parking occupancy data (hourly, with timestamps) and predicts future occupancy using:
-- **Linear Regression** — baseline, interpretable
-- **Random Forest** — captures non-linear patterns
-- **XGBoost** — gradient boosting for best performance
+Takes historical parking occupancy data (hourly, with timestamps) and predicts future occupancy using the three models below:
+- **Linear Regression:** baseline, interpretable
+- **Random Forest:** captures non-linear patterns
+- **XGBoost:** gradient boosting for best performance
 
 Evaluates with MAE, RMSE, and R². Visualizes predictions vs actuals.
 
